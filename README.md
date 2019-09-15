@@ -25,5 +25,8 @@ TriggerEvent('esx_status:registerStatus', 'hunger', 1000000, '#CFAD0F', function
 ##### Optional
 4) Go to es_extended/config.lua and set `Config.EnableHud` to false
 
+##### Note
+Feel free to edit this script to your liking, but when you reupload it please **give me the deserved credits!**
 
-Enjoy the HUD !
+
+**Enjoy the HUD !**
