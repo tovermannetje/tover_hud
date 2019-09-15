@@ -2,6 +2,7 @@
 By Tover , Tover's Services
 
 **Do you want more of these high-quality scripts ? Feel free to join my discord https://discord.me/tover**
+If you have questions, bugs or suggestions also feel free to join my discord !
 
 # What to do ?
 1) Be sure to install esx_status and esx_basicneeds
