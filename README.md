@@ -21,7 +21,8 @@ TriggerEvent('esx_status:registerStatus', 'hunger', 1000000, '#CFAD0F', function
 ```
 
 3) Or just simply replace `return true` to `return false` on line 43 and line 49
-[Optional]
+
+##### Optional
 4) Go to es_extended/config.lua and set `Config.EnableHud` to false
 
 
