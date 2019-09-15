@@ -1,9 +1,9 @@
 # Tover's HUD
 By Tover , Tover's Services
 
-Do you want more of these high-quality scripts ? Feel free to join my discord https://discord.me/tover
+**Do you want more of these high-quality scripts ? Feel free to join my discord https://discord.me/tover**
 
-#What to do ?
+# What to do ?
 1) Be sure to install esx_status and esx_basicneeds
 2) In esx_basicneeds replace line 42 til 52 with
 ```lua
