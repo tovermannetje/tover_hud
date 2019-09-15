@@ -5,7 +5,7 @@ By Tover , Tover's Services
 If you have questions, bugs or suggestions also feel free to join my discord !
 
 # What to do ?
-1) Be sure to install esx_status and esx_basicneeds
+1) Be sure to have esx_status and esx_basicneeds installed!
 2) In esx_basicneeds replace line 42 til 52 with
 ```lua
 TriggerEvent('esx_status:registerStatus', 'hunger', 1000000, '#CFAD0F', function(status)
