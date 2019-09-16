@@ -1,7 +1,7 @@
 ----- Made by Tovermannetje For the People -> Tover's Services https://discord.me/tover
 
 ESX = nil
-local isPlayerLoaded = true
+local isPlayerLoaded = false
 local xPlayer = nil
 local screenRes = {
 	x = nil, 
